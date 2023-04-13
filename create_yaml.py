@@ -3,6 +3,7 @@ import yaml
 data_yaml = dict(
     train = 'Dataset/train',
     val = 'Dataset/validation',
+    test = 'Dataset/test',
     nc = 1,
     names = ['person']
 )
